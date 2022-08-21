@@ -1,0 +1,5 @@
+a:visited {     color: green; } 
+ 
+/* unvisited link */ a:link {     color: red; } 
+  span {     background-color: yellow; } 
+   .li {     font-weight: bolder; }  .ul {     color: blue; }
